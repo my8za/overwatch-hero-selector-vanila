@@ -1,0 +1,8 @@
+.container {}
+.container .heros {}
+.container .heros .hero {
+  width: 80px;
+  height: 84px;
+  background-color: #555;
+}
+.container .heros .hero .image {}
